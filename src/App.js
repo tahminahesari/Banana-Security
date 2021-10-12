@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
 import './App.css';
+import {AuthContext} from "./context/AuthContext";
 
 function App() {
   return (
